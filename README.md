@@ -1,12 +1,35 @@
 # 💫 About Me:
-I am currently learning Python, Bash, Git, and software development. I enjoy building projects that solve real problems and help people in meaningful ways. I am always eager to learn new skills, take on challenges, and grow as a developer. I am currently looking for internship opportunities where I can gain experience, contribute to real projects, and continue improving my technical abilities.
+I am a Robotics and Intelligent Systems student at UMT, focused on Python, AI/ML, NLP, and robotics. I enjoy building practical projects that solve real-world problems and help me understand how intelligent systems work in real applications.
 
+I have experience working with machine learning, NLP, data analysis, deep learning concepts, and AI-powered applications. I also work with robotics and embedded systems using Arduino and ESP32, combining software with hardware to build intelligent and autonomous systems.
+
+I’m continuously improving my skills through hands-on projects and experimenting with different technologies. Currently, I’m focused on strengthening my foundations in AI/ML, robotics, and software development while building projects that showcase what I learn.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayan-imran-993587339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayanadan234@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayan-imran-993587339) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayanadan234@gmail.com)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Robotics & Autonomous Systems
+- Embedded Systems
+- Intelligent Applications
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rayan-02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rayan-02&theme=dark&hide_border=false)<br/>
